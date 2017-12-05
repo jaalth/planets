@@ -1,2 +1,1 @@
-cold 
-x
+mars is red. it has two moons
